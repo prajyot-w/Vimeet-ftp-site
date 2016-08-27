@@ -1,0 +1,40 @@
+#departments{
+	background-color:white;
+	margin: 10px;
+	height: 350px;
+	width: auto;
+	padding: 25px;
+}
+
+.dept{
+	width: 194px;
+	height: 200px;
+	background-color: blue;
+	margin: 15px;
+	margin-top: 60px;
+	color:white;
+	font-size: 35px;
+	border-radius: 5px;
+	filter: opacity(0.5);
+	//display: inline;
+}
+
+.dept:hover{
+	border-radius: 97px;
+	border: 2px solid red;
+	filter: opacity(1);
+}
+
+h4{
+	margin-top:70px;
+}
+
+a:link{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited{
+	text-decoration: none;
+	color: white;
+}
